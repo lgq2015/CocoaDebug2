@@ -53,27 +53,7 @@ target 'YourTargetName' do
 end
 ```
 
-## Usage
-
-### Swift
-	
-    //Step 1. (AppDelegate.swift)
-    #if DEBUG
-        import CocoaDebug
-    #endif
-	
-    //Step 2. (AppDelegate.swift)
-    #if DEBUG
-        CocoaDebug.enable()
-    #endif
-
-    //Step 3. (AppDelegate.swift)
-    public func print<T>(file: String = #file, function: String = #function, line: Int = #line, _ message: T, color: UIColor = .white) {
-        #if DEBUG
-            swiftLog(file, function, line, message, color, false)
-        #endif
-    }
-	
+## Usage	
 
 ### Objective-C
 	
@@ -86,23 +66,6 @@ end
     #ifdef DEBUG
         [CocoaDebug enable];
     #endif
-	
-    //Step 3. (PrefixHeader.pch)
-    #ifdef DEBUG
-        #import "_ObjcLog.h"
-        //#import <CocoaDebug/_ObjcLog.h> //if use framework
-    #endif
-	
-	//Step 4. (PrefixHeader.pch)
-    #ifdef DEBUG
-        #define NSLog(fmt, ...) [_ObjcLog logWithFile:__FILE__ function:__FUNCTION__ line:__LINE__ color:[UIColor whiteColor] unicodeToChinese:NO message:(fmt), ##__VA_ARGS__]
-    #else
-        #define NSLog(fmt, ...) nil
-    #endif
-
-> Please check `Example_Swift.xcodeproj` and `Example_Objc.xcodeproj` for more advanced usage.
-
-> NOTE: Be careful with `Other Swift Flags` & `Preprocessor Macros` when using Swift & Objective-C in one project. You can refer to [here](https://stackoverflow.com/questions/24111854/in-absence-of-preprocessor-macros-is-there-a-way-to-define-practical-scheme-spe).  
 
 ## Parameters
 
@@ -123,15 +86,3 @@ When you initialize CocoaDebug, you can customize the following parameter values
 - `emailCcRecipients` - Set the initial recipients to include in the email’s “Cc” field when share via email. default value is **nil**.
 
 - `mainColor` - Set the main color with hexadecimal format. default value is **#42d459**.
-
-## TODO
-
-- [Unit Testing](https://codecov.io/gh/CocoaDebug/CocoaDebug)
-
-## Thanks
-
-Special thanks to [remirobert](https://github.com/remirobert).
-
-## License
-
-CocoaDebug2 is released under the [MIT license](https://github.com/CocoaDebug/CocoaDebug/blob/master/LICENSE).
