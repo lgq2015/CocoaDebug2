@@ -1,8 +1,8 @@
 Pod::Spec.new do |s|
   s.name                = "CocoaDebug2"
   s.summary             = "iOS Debugging Tool"
-  s.homepage            = "https://github.com/CocoaDebug/CocoaDebug"
-  s.author              = {"CocoaDebug" => "man.li@shopee.com"}
+  s.homepage            = "https://github.com/CocoaDebug/CocoaDebug2"
+  s.author              = {"CocoaDebug2" => "man.li@shopee.com"}
   s.license             = "MIT"
   s.source_files        = "Sources", "Sources/**/*.{h,m,swift,c}"
   s.public_header_files = "Sources/**/*.h"
@@ -11,8 +11,8 @@ Pod::Spec.new do |s|
   s.requires_arc        = true
   s.swift_version       = '5.0'
   s.platform            = :ios, "8.0"
-  s.source              = { :git => "https://github.com/CocoaDebug/CocoaDebug.git", :branch => 'master', :tag => '0.0.1' }
-  s.version             = '0.0.1'
+  s.source              = { :git => "https://github.com/CocoaDebug/CocoaDebug2.git", :branch => 'master', :tag => '0.0.2' }
+  s.version             = '0.0.2'
   s.requires_arc = false
   s.requires_arc = 
     [
