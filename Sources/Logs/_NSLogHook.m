@@ -36,7 +36,7 @@ void my_nslog(NSString *format, ...) {
     
     
     
-    [_OCLogHelper.shared handleLogWithFile:@"" function:@"" line:999999999 message:[[NSString alloc] initWithFormat:format arguments:va] color:[UIColor whiteColor]];
+    [_OCLogHelper.shared handleLogWithFile:@"" function:@"" line:999999999 message:[[NSString alloc] initWithFormat:format arguments:va] color:[UIColor blackColor]];
     
     va_end(va);
 }

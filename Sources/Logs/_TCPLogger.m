@@ -8,7 +8,7 @@
 
 #import "_TCPLogger.h"
 #import "_OCLogHelper.h"
-#import "_GPBMessage.h"
+#import "GPBMessage.h"
 
 @implementation _TCPLogger
 
@@ -22,7 +22,7 @@
     }
     
     //2.protobuf
-    _GPBMessage *message = [_GPBMessage parseFromData:data error:nil];
+    GPBMessage *message = [GPBMessage parseFromData:data error:nil];
     if (message) {
         
         if ([message serializedSize] > 0) {
