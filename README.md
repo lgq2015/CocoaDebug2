@@ -49,17 +49,9 @@ platform :ios, '8.0'
 use_frameworks!
 
 target 'YourTargetName' do
-    pod 'CocoaDebug', :configurations => ['Debug']
+    pod 'CocoaDebug2', :configurations => ['Debug']
 end
 ```
-
-### Carthage
-
-```ogdl
-github "CocoaDebug/CocoaDebug"
-```
-
-> WARNING: Don't submit `.ipa` to AppStore which has been linked with the `CocoaDebug.framework`. This [Integration Guide](https://github.com/CocoaDebug/CocoaDebug/wiki/Integration-Guide) outline a way to use build configurations to isolate linking the framework to `Debug` builds only.
 
 ## Usage
 
@@ -142,4 +134,4 @@ Special thanks to [remirobert](https://github.com/remirobert).
 
 ## License
 
-CocoaDebug is released under the [MIT license](https://github.com/CocoaDebug/CocoaDebug/blob/master/LICENSE).
+CocoaDebug2 is released under the [MIT license](https://github.com/CocoaDebug/CocoaDebug/blob/master/LICENSE).
