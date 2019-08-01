@@ -12,20 +12,20 @@
 		38AA078A22EAE93B0061214D /* CocoaDebug.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA063C22EAE93B0061214D /* CocoaDebug.swift */; };
 		38AA078B22EAE93B0061214D /* CocoaDebugSettings.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA063D22EAE93B0061214D /* CocoaDebugSettings.swift */; };
 		38AA078C22EAE93B0061214D /* CocoaDebug+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA063F22EAE93B0061214D /* CocoaDebug+Extensions.swift */; };
-		38AA078D22EAE93B0061214D /* AppInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064122EAE93B0061214D /* AppInfoViewController.swift */; };
-		38AA078E22EAE93B0061214D /* DeviceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064222EAE93B0061214D /* DeviceModel.swift */; };
-		38AA078F22EAE93B0061214D /* CrashStoreManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064322EAE93B0061214D /* CrashStoreManager.swift */; };
-		38AA079022EAE93B0061214D /* CrashModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064422EAE93B0061214D /* CrashModel.swift */; };
-		38AA079122EAE93B0061214D /* AppInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064522EAE93B0061214D /* AppInfo.swift */; };
-		38AA079222EAE93B0061214D /* CrashDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064622EAE93B0061214D /* CrashDetailViewController.swift */; };
-		38AA079322EAE93B0061214D /* IgnoredURLsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064722EAE93B0061214D /* IgnoredURLsViewController.swift */; };
-		38AA079422EAE93B0061214D /* CrashListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064822EAE93B0061214D /* CrashListViewController.swift */; };
-		38AA079522EAE93B0061214D /* CrashLogger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064922EAE93B0061214D /* CrashLogger.swift */; };
-		38AA079622EAE93B0061214D /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064A22EAE93B0061214D /* Device.swift */; };
-		38AA079722EAE93B0061214D /* AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064B22EAE93B0061214D /* AboutViewController.swift */; };
-		38AA079822EAE93B0061214D /* CrashCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064C22EAE93B0061214D /* CrashCell.swift */; };
+		38AA078D22EAE93B0061214D /* _AppInfoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064122EAE93B0061214D /* _AppInfoViewController.swift */; };
+		38AA078E22EAE93B0061214D /* _DeviceModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064222EAE93B0061214D /* _DeviceModel.swift */; };
+		38AA078F22EAE93B0061214D /* _CrashStoreManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064322EAE93B0061214D /* _CrashStoreManager.swift */; };
+		38AA079022EAE93B0061214D /* _CrashModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064422EAE93B0061214D /* _CrashModel.swift */; };
+		38AA079122EAE93B0061214D /* _AppInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064522EAE93B0061214D /* _AppInfo.swift */; };
+		38AA079222EAE93B0061214D /* _CrashDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064622EAE93B0061214D /* _CrashDetailViewController.swift */; };
+		38AA079322EAE93B0061214D /* _IgnoredURLsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064722EAE93B0061214D /* _IgnoredURLsViewController.swift */; };
+		38AA079422EAE93B0061214D /* _CrashListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064822EAE93B0061214D /* _CrashListViewController.swift */; };
+		38AA079522EAE93B0061214D /* _CrashLogger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064922EAE93B0061214D /* _CrashLogger.swift */; };
+		38AA079622EAE93B0061214D /* _Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064A22EAE93B0061214D /* _Device.swift */; };
+		38AA079722EAE93B0061214D /* _AboutViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064B22EAE93B0061214D /* _AboutViewController.swift */; };
+		38AA079822EAE93B0061214D /* _CrashCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064C22EAE93B0061214D /* _CrashCell.swift */; };
 		38AA079922EAE93B0061214D /* _fishhook.c in Sources */ = {isa = PBXBuildFile; fileRef = 38AA064E22EAE93B0061214D /* _fishhook.c */; };
-		38AA079A22EAE93B0061214D /* NetworkCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 38AA065122EAE93B0061214D /* NetworkCell.xib */; };
+		38AA079A22EAE93B0061214D /* _NetworkCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 38AA065122EAE93B0061214D /* _NetworkCell.xib */; };
 		38AA079B22EAE93B0061214D /* Logs.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38AA065222EAE93B0061214D /* Logs.storyboard */; };
 		38AA079C22EAE93B0061214D /* _icon_file_type_white.png in Resources */ = {isa = PBXBuildFile; fileRef = 38AA065422EAE93B0061214D /* _icon_file_type_white.png */; };
 		38AA079D22EAE93B0061214D /* _icon_file_type_app@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 38AA065522EAE93B0061214D /* _icon_file_type_app@2x.png */; };
@@ -202,14 +202,14 @@
 		38AA084822EAE93B0061214D /* icon_file_type_js@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = 38AA070122EAE93B0061214D /* icon_file_type_js@3x.png */; };
 		38AA084922EAE93B0061214D /* Manager.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38AA070222EAE93B0061214D /* Manager.storyboard */; };
 		38AA084A22EAE93B0061214D /* App.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 38AA070322EAE93B0061214D /* App.storyboard */; };
-		38AA084B22EAE93B0061214D /* JsonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA070522EAE93B0061214D /* JsonViewController.swift */; };
+		38AA084B22EAE93B0061214D /* _JsonViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA070522EAE93B0061214D /* _JsonViewController.swift */; };
 		38AA084C22EAE93B0061214D /* _HttpModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AA070622EAE93B0061214D /* _HttpModel.m */; };
-		38AA084D22EAE93B0061214D /* NetworkCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA070822EAE93B0061214D /* NetworkCell.swift */; };
-		38AA084E22EAE93B0061214D /* NetworkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA070A22EAE93B0061214D /* NetworkViewController.swift */; };
-		38AA084F22EAE93B0061214D /* NetworkDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA070B22EAE93B0061214D /* NetworkDetailViewController.swift */; };
-		38AA085022EAE93B0061214D /* NetworkDetailCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA070D22EAE93B0061214D /* NetworkDetailCell.swift */; };
+		38AA084D22EAE93B0061214D /* _NetworkCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA070822EAE93B0061214D /* _NetworkCell.swift */; };
+		38AA084E22EAE93B0061214D /* _NetworkViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA070A22EAE93B0061214D /* _NetworkViewController.swift */; };
+		38AA084F22EAE93B0061214D /* _NetworkDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA070B22EAE93B0061214D /* _NetworkDetailViewController.swift */; };
+		38AA085022EAE93B0061214D /* _NetworkDetailCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA070D22EAE93B0061214D /* _NetworkDetailCell.swift */; };
 		38AA085122EAE93B0061214D /* _NetworkHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AA070E22EAE93B0061214D /* _NetworkHelper.m */; };
-		38AA085222EAE93B0061214D /* NetworkDetailModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA070F22EAE93B0061214D /* NetworkDetailModel.swift */; };
+		38AA085222EAE93B0061214D /* _NetworkDetailModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA070F22EAE93B0061214D /* _NetworkDetailModel.swift */; };
 		38AA085322EAE93B0061214D /* _HttpDatasource.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AA071022EAE93B0061214D /* _HttpDatasource.m */; };
 		38AA085422EAE93B0061214D /* _QNSURLSessionDemux.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AA071422EAE93B0061214D /* _QNSURLSessionDemux.m */; };
 		38AA085522EAE93B0061214D /* _CustomHTTPProtocol.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AA071522EAE93B0061214D /* _CustomHTTPProtocol.m */; };
@@ -220,9 +220,9 @@
 		38AA085A22EAE93B0061214D /* _OCLogHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AA072122EAE93B0061214D /* _OCLogHelper.m */; };
 		38AA085B22EAE93B0061214D /* _OCLogModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AA072222EAE93B0061214D /* _OCLogModel.m */; };
 		38AA085C22EAE93B0061214D /* _TCPLogger.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AA072322EAE93B0061214D /* _TCPLogger.m */; };
-		38AA085D22EAE93B0061214D /* LogCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA072422EAE93B0061214D /* LogCell.swift */; };
-		38AA085E22EAE93B0061214D /* LogViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA072522EAE93B0061214D /* LogViewController.swift */; };
-		38AA085F22EAE93B0061214D /* LogHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA072722EAE93B0061214D /* LogHelper.swift */; };
+		38AA085D22EAE93B0061214D /* _LogCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA072422EAE93B0061214D /* _LogCell.swift */; };
+		38AA085E22EAE93B0061214D /* _LogViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA072522EAE93B0061214D /* _LogViewController.swift */; };
+		38AA085F22EAE93B0061214D /* _LogHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA072722EAE93B0061214D /* _LogHelper.swift */; };
 		38AA086022EAE93B0061214D /* _ObjcLog.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AA072922EAE93B0061214D /* _ObjcLog.m */; };
 		38AA086122EAE93B0061214D /* _SandboxerHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AA072B22EAE93B0061214D /* _SandboxerHelper.m */; };
 		38AA086222EAE93B0061214D /* _MLBFileTableViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AA072C22EAE93B0061214D /* _MLBFileTableViewCell.m */; };
@@ -239,7 +239,7 @@
 		38AA086D22EAE93B0061214D /* CocoaDebugNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA074322EAE93B0061214D /* CocoaDebugNavigationController.swift */; };
 		38AA086E22EAE93B0061214D /* CocoaDebugViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA074422EAE93B0061214D /* CocoaDebugViewController.swift */; };
 		38AA086F22EAE93B0061214D /* CocoaDebugTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA074522EAE93B0061214D /* CocoaDebugTabBarController.swift */; };
-		38AA087022EAE93B0061214D /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA074622EAE93B0061214D /* Color.swift */; };
+		38AA087022EAE93B0061214D /* _Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 38AA074622EAE93B0061214D /* _Color.swift */; };
 		38AA087122EAE93B0061214D /* _NSObject+Categories.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AA074922EAE93B0061214D /* _NSObject+Categories.m */; };
 		38AA088B22EAEBBA0061214D /* _NSLogHook.m in Sources */ = {isa = PBXBuildFile; fileRef = 38AA088A22EAEBBA0061214D /* _NSLogHook.m */; };
 		EA165F01204D2539001472C1 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = EA165F00204D2539001472C1 /* AppDelegate.m */; };
@@ -287,21 +287,21 @@
 		38AA063D22EAE93B0061214D /* CocoaDebugSettings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CocoaDebugSettings.swift; sourceTree = "<group>"; };
 		38AA063E22EAE93B0061214D /* CocoaDebug.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CocoaDebug.h; sourceTree = "<group>"; };
 		38AA063F22EAE93B0061214D /* CocoaDebug+Extensions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "CocoaDebug+Extensions.swift"; sourceTree = "<group>"; };
-		38AA064122EAE93B0061214D /* AppInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppInfoViewController.swift; sourceTree = "<group>"; };
-		38AA064222EAE93B0061214D /* DeviceModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DeviceModel.swift; sourceTree = "<group>"; };
-		38AA064322EAE93B0061214D /* CrashStoreManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CrashStoreManager.swift; sourceTree = "<group>"; };
-		38AA064422EAE93B0061214D /* CrashModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CrashModel.swift; sourceTree = "<group>"; };
-		38AA064522EAE93B0061214D /* AppInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppInfo.swift; sourceTree = "<group>"; };
-		38AA064622EAE93B0061214D /* CrashDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CrashDetailViewController.swift; sourceTree = "<group>"; };
-		38AA064722EAE93B0061214D /* IgnoredURLsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IgnoredURLsViewController.swift; sourceTree = "<group>"; };
-		38AA064822EAE93B0061214D /* CrashListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CrashListViewController.swift; sourceTree = "<group>"; };
-		38AA064922EAE93B0061214D /* CrashLogger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CrashLogger.swift; sourceTree = "<group>"; };
-		38AA064A22EAE93B0061214D /* Device.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Device.swift; sourceTree = "<group>"; };
-		38AA064B22EAE93B0061214D /* AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutViewController.swift; sourceTree = "<group>"; };
-		38AA064C22EAE93B0061214D /* CrashCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CrashCell.swift; sourceTree = "<group>"; };
+		38AA064122EAE93B0061214D /* _AppInfoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _AppInfoViewController.swift; sourceTree = "<group>"; };
+		38AA064222EAE93B0061214D /* _DeviceModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _DeviceModel.swift; sourceTree = "<group>"; };
+		38AA064322EAE93B0061214D /* _CrashStoreManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _CrashStoreManager.swift; sourceTree = "<group>"; };
+		38AA064422EAE93B0061214D /* _CrashModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _CrashModel.swift; sourceTree = "<group>"; };
+		38AA064522EAE93B0061214D /* _AppInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _AppInfo.swift; sourceTree = "<group>"; };
+		38AA064622EAE93B0061214D /* _CrashDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _CrashDetailViewController.swift; sourceTree = "<group>"; };
+		38AA064722EAE93B0061214D /* _IgnoredURLsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _IgnoredURLsViewController.swift; sourceTree = "<group>"; };
+		38AA064822EAE93B0061214D /* _CrashListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _CrashListViewController.swift; sourceTree = "<group>"; };
+		38AA064922EAE93B0061214D /* _CrashLogger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _CrashLogger.swift; sourceTree = "<group>"; };
+		38AA064A22EAE93B0061214D /* _Device.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _Device.swift; sourceTree = "<group>"; };
+		38AA064B22EAE93B0061214D /* _AboutViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _AboutViewController.swift; sourceTree = "<group>"; };
+		38AA064C22EAE93B0061214D /* _CrashCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _CrashCell.swift; sourceTree = "<group>"; };
 		38AA064E22EAE93B0061214D /* _fishhook.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = _fishhook.c; sourceTree = "<group>"; };
 		38AA064F22EAE93B0061214D /* _fishhook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _fishhook.h; sourceTree = "<group>"; };
-		38AA065122EAE93B0061214D /* NetworkCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = NetworkCell.xib; sourceTree = "<group>"; };
+		38AA065122EAE93B0061214D /* _NetworkCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = _NetworkCell.xib; sourceTree = "<group>"; };
 		38AA065222EAE93B0061214D /* Logs.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Logs.storyboard; sourceTree = "<group>"; };
 		38AA065422EAE93B0061214D /* _icon_file_type_white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = _icon_file_type_white.png; sourceTree = "<group>"; };
 		38AA065522EAE93B0061214D /* _icon_file_type_app@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "_icon_file_type_app@2x.png"; sourceTree = "<group>"; };
@@ -478,17 +478,17 @@
 		38AA070122EAE93B0061214D /* icon_file_type_js@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_file_type_js@3x.png"; sourceTree = "<group>"; };
 		38AA070222EAE93B0061214D /* Manager.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Manager.storyboard; sourceTree = "<group>"; };
 		38AA070322EAE93B0061214D /* App.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = App.storyboard; sourceTree = "<group>"; };
-		38AA070522EAE93B0061214D /* JsonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JsonViewController.swift; sourceTree = "<group>"; };
+		38AA070522EAE93B0061214D /* _JsonViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _JsonViewController.swift; sourceTree = "<group>"; };
 		38AA070622EAE93B0061214D /* _HttpModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _HttpModel.m; sourceTree = "<group>"; };
 		38AA070722EAE93B0061214D /* _NetworkHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _NetworkHelper.h; sourceTree = "<group>"; };
-		38AA070822EAE93B0061214D /* NetworkCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkCell.swift; sourceTree = "<group>"; };
+		38AA070822EAE93B0061214D /* _NetworkCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _NetworkCell.swift; sourceTree = "<group>"; };
 		38AA070922EAE93B0061214D /* _HttpDatasource.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _HttpDatasource.h; sourceTree = "<group>"; };
-		38AA070A22EAE93B0061214D /* NetworkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkViewController.swift; sourceTree = "<group>"; };
-		38AA070B22EAE93B0061214D /* NetworkDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkDetailViewController.swift; sourceTree = "<group>"; };
+		38AA070A22EAE93B0061214D /* _NetworkViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _NetworkViewController.swift; sourceTree = "<group>"; };
+		38AA070B22EAE93B0061214D /* _NetworkDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _NetworkDetailViewController.swift; sourceTree = "<group>"; };
 		38AA070C22EAE93B0061214D /* _HttpModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _HttpModel.h; sourceTree = "<group>"; };
-		38AA070D22EAE93B0061214D /* NetworkDetailCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkDetailCell.swift; sourceTree = "<group>"; };
+		38AA070D22EAE93B0061214D /* _NetworkDetailCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _NetworkDetailCell.swift; sourceTree = "<group>"; };
 		38AA070E22EAE93B0061214D /* _NetworkHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _NetworkHelper.m; sourceTree = "<group>"; };
-		38AA070F22EAE93B0061214D /* NetworkDetailModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NetworkDetailModel.swift; sourceTree = "<group>"; };
+		38AA070F22EAE93B0061214D /* _NetworkDetailModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _NetworkDetailModel.swift; sourceTree = "<group>"; };
 		38AA071022EAE93B0061214D /* _HttpDatasource.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _HttpDatasource.m; sourceTree = "<group>"; };
 		38AA071222EAE93B0061214D /* _CacheStoragePolicy.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _CacheStoragePolicy.h; sourceTree = "<group>"; };
 		38AA071322EAE93B0061214D /* _CanonicalRequest.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _CanonicalRequest.h; sourceTree = "<group>"; };
@@ -507,10 +507,10 @@
 		38AA072122EAE93B0061214D /* _OCLogHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _OCLogHelper.m; sourceTree = "<group>"; };
 		38AA072222EAE93B0061214D /* _OCLogModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _OCLogModel.m; sourceTree = "<group>"; };
 		38AA072322EAE93B0061214D /* _TCPLogger.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _TCPLogger.m; sourceTree = "<group>"; };
-		38AA072422EAE93B0061214D /* LogCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogCell.swift; sourceTree = "<group>"; };
-		38AA072522EAE93B0061214D /* LogViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogViewController.swift; sourceTree = "<group>"; };
+		38AA072422EAE93B0061214D /* _LogCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _LogCell.swift; sourceTree = "<group>"; };
+		38AA072522EAE93B0061214D /* _LogViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _LogViewController.swift; sourceTree = "<group>"; };
 		38AA072622EAE93B0061214D /* _OCLoggerFormat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _OCLoggerFormat.h; sourceTree = "<group>"; };
-		38AA072722EAE93B0061214D /* LogHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LogHelper.swift; sourceTree = "<group>"; };
+		38AA072722EAE93B0061214D /* _LogHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _LogHelper.swift; sourceTree = "<group>"; };
 		38AA072822EAE93B0061214D /* _OCLogStoreManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = _OCLogStoreManager.h; sourceTree = "<group>"; };
 		38AA072922EAE93B0061214D /* _ObjcLog.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _ObjcLog.m; sourceTree = "<group>"; };
 		38AA072B22EAE93B0061214D /* _SandboxerHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _SandboxerHelper.m; sourceTree = "<group>"; };
@@ -538,7 +538,7 @@
 		38AA074322EAE93B0061214D /* CocoaDebugNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CocoaDebugNavigationController.swift; sourceTree = "<group>"; };
 		38AA074422EAE93B0061214D /* CocoaDebugViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CocoaDebugViewController.swift; sourceTree = "<group>"; };
 		38AA074522EAE93B0061214D /* CocoaDebugTabBarController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CocoaDebugTabBarController.swift; sourceTree = "<group>"; };
-		38AA074622EAE93B0061214D /* Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
+		38AA074622EAE93B0061214D /* _Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = _Color.swift; sourceTree = "<group>"; };
 		38AA074822EAE93B0061214D /* _NSObject+Categories.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "_NSObject+Categories.h"; sourceTree = "<group>"; };
 		38AA074922EAE93B0061214D /* _NSObject+Categories.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "_NSObject+Categories.m"; sourceTree = "<group>"; };
 		38AA088A22EAEBBA0061214D /* _NSLogHook.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = _NSLogHook.m; sourceTree = "<group>"; };
@@ -622,18 +622,18 @@
 		38AA064022EAE93B0061214D /* App */ = {
 			isa = PBXGroup;
 			children = (
-				38AA064122EAE93B0061214D /* AppInfoViewController.swift */,
-				38AA064222EAE93B0061214D /* DeviceModel.swift */,
-				38AA064322EAE93B0061214D /* CrashStoreManager.swift */,
-				38AA064422EAE93B0061214D /* CrashModel.swift */,
-				38AA064522EAE93B0061214D /* AppInfo.swift */,
-				38AA064622EAE93B0061214D /* CrashDetailViewController.swift */,
-				38AA064722EAE93B0061214D /* IgnoredURLsViewController.swift */,
-				38AA064822EAE93B0061214D /* CrashListViewController.swift */,
-				38AA064922EAE93B0061214D /* CrashLogger.swift */,
-				38AA064A22EAE93B0061214D /* Device.swift */,
-				38AA064B22EAE93B0061214D /* AboutViewController.swift */,
-				38AA064C22EAE93B0061214D /* CrashCell.swift */,
+				38AA064122EAE93B0061214D /* _AppInfoViewController.swift */,
+				38AA064222EAE93B0061214D /* _DeviceModel.swift */,
+				38AA064322EAE93B0061214D /* _CrashStoreManager.swift */,
+				38AA064422EAE93B0061214D /* _CrashModel.swift */,
+				38AA064522EAE93B0061214D /* _AppInfo.swift */,
+				38AA064622EAE93B0061214D /* _CrashDetailViewController.swift */,
+				38AA064722EAE93B0061214D /* _IgnoredURLsViewController.swift */,
+				38AA064822EAE93B0061214D /* _CrashListViewController.swift */,
+				38AA064922EAE93B0061214D /* _CrashLogger.swift */,
+				38AA064A22EAE93B0061214D /* _Device.swift */,
+				38AA064B22EAE93B0061214D /* _AboutViewController.swift */,
+				38AA064C22EAE93B0061214D /* _CrashCell.swift */,
 			);
 			path = App;
 			sourceTree = "<group>";
@@ -650,7 +650,7 @@
 		38AA065022EAE93B0061214D /* Resources */ = {
 			isa = PBXGroup;
 			children = (
-				38AA065122EAE93B0061214D /* NetworkCell.xib */,
+				38AA065122EAE93B0061214D /* _NetworkCell.xib */,
 				38AA065222EAE93B0061214D /* Logs.storyboard */,
 				38AA065322EAE93B0061214D /* images */,
 				38AA065E22EAE93B0061214D /* Network.storyboard */,
@@ -850,17 +850,17 @@
 		38AA070422EAE93B0061214D /* Network */ = {
 			isa = PBXGroup;
 			children = (
-				38AA070522EAE93B0061214D /* JsonViewController.swift */,
+				38AA070522EAE93B0061214D /* _JsonViewController.swift */,
 				38AA070622EAE93B0061214D /* _HttpModel.m */,
 				38AA070722EAE93B0061214D /* _NetworkHelper.h */,
-				38AA070822EAE93B0061214D /* NetworkCell.swift */,
+				38AA070822EAE93B0061214D /* _NetworkCell.swift */,
 				38AA070922EAE93B0061214D /* _HttpDatasource.h */,
-				38AA070A22EAE93B0061214D /* NetworkViewController.swift */,
-				38AA070B22EAE93B0061214D /* NetworkDetailViewController.swift */,
+				38AA070A22EAE93B0061214D /* _NetworkViewController.swift */,
+				38AA070B22EAE93B0061214D /* _NetworkDetailViewController.swift */,
 				38AA070C22EAE93B0061214D /* _HttpModel.h */,
-				38AA070D22EAE93B0061214D /* NetworkDetailCell.swift */,
+				38AA070D22EAE93B0061214D /* _NetworkDetailCell.swift */,
 				38AA070E22EAE93B0061214D /* _NetworkHelper.m */,
-				38AA070F22EAE93B0061214D /* NetworkDetailModel.swift */,
+				38AA070F22EAE93B0061214D /* _NetworkDetailModel.swift */,
 				38AA071022EAE93B0061214D /* _HttpDatasource.m */,
 			);
 			path = Network;
@@ -895,10 +895,10 @@
 				38AA072122EAE93B0061214D /* _OCLogHelper.m */,
 				38AA072222EAE93B0061214D /* _OCLogModel.m */,
 				38AA072322EAE93B0061214D /* _TCPLogger.m */,
-				38AA072422EAE93B0061214D /* LogCell.swift */,
-				38AA072522EAE93B0061214D /* LogViewController.swift */,
+				38AA072422EAE93B0061214D /* _LogCell.swift */,
+				38AA072522EAE93B0061214D /* _LogViewController.swift */,
 				38AA072622EAE93B0061214D /* _OCLoggerFormat.h */,
-				38AA072722EAE93B0061214D /* LogHelper.swift */,
+				38AA072722EAE93B0061214D /* _LogHelper.swift */,
 				38AA072822EAE93B0061214D /* _OCLogStoreManager.h */,
 			);
 			path = Logs;
@@ -946,7 +946,7 @@
 				38AA074322EAE93B0061214D /* CocoaDebugNavigationController.swift */,
 				38AA074422EAE93B0061214D /* CocoaDebugViewController.swift */,
 				38AA074522EAE93B0061214D /* CocoaDebugTabBarController.swift */,
-				38AA074622EAE93B0061214D /* Color.swift */,
+				38AA074622EAE93B0061214D /* _Color.swift */,
 			);
 			path = Window;
 			sourceTree = "<group>";
@@ -1125,7 +1125,7 @@
 			files = (
 				38AA07E122EAE93B0061214D /* icon_file_type_flv.png in Resources */,
 				38AA082F22EAE93B0061214D /* icon_file_type_ttf.png in Resources */,
-				38AA079A22EAE93B0061214D /* NetworkCell.xib in Resources */,
+				38AA079A22EAE93B0061214D /* _NetworkCell.xib in Resources */,
 				38AA07D222EAE93B0061214D /* icon_file_type_folder_not_empty@2x.png in Resources */,
 				38AA07C522EAE93B0061214D /* icon_file_type_jpg.png in Resources */,
 				38AA07EE22EAE93B0061214D /* icon_file_type_css.png in Resources */,
@@ -1326,39 +1326,39 @@
 				38AA085A22EAE93B0061214D /* _OCLogHelper.m in Sources */,
 				38AA078C22EAE93B0061214D /* CocoaDebug+Extensions.swift in Sources */,
 				EAF58056204E7434001CA56D /* AFURLResponseSerialization.m in Sources */,
-				38AA079822EAE93B0061214D /* CrashCell.swift in Sources */,
+				38AA079822EAE93B0061214D /* _CrashCell.swift in Sources */,
 				38AA085722EAE93B0061214D /* _CanonicalRequest.m in Sources */,
-				38AA078D22EAE93B0061214D /* AppInfoViewController.swift in Sources */,
+				38AA078D22EAE93B0061214D /* _AppInfoViewController.swift in Sources */,
 				38AA086722EAE93B0061214D /* _MLBImageResources.m in Sources */,
 				38AA085822EAE93B0061214D /* _OCLoggerFormat.m in Sources */,
-				38AA079522EAE93B0061214D /* CrashLogger.swift in Sources */,
+				38AA079522EAE93B0061214D /* _CrashLogger.swift in Sources */,
 				EA165F04204D2539001472C1 /* ViewController.m in Sources */,
 				38AA086422EAE93B0061214D /* _MLBImageController.m in Sources */,
-				38AA079322EAE93B0061214D /* IgnoredURLsViewController.swift in Sources */,
+				38AA079322EAE93B0061214D /* _IgnoredURLsViewController.swift in Sources */,
 				38AA085922EAE93B0061214D /* _OCLogStoreManager.m in Sources */,
 				38AA086822EAE93B0061214D /* _MLBFileInfo.m in Sources */,
 				EAF5805B204E7434001CA56D /* AFSecurityPolicy.m in Sources */,
 				38AA084C22EAE93B0061214D /* _HttpModel.m in Sources */,
 				38AA085C22EAE93B0061214D /* _TCPLogger.m in Sources */,
-				38AA085222EAE93B0061214D /* NetworkDetailModel.swift in Sources */,
+				38AA085222EAE93B0061214D /* _NetworkDetailModel.swift in Sources */,
 				EA165F0F204D2539001472C1 /* main.m in Sources */,
-				38AA084E22EAE93B0061214D /* NetworkViewController.swift in Sources */,
+				38AA084E22EAE93B0061214D /* _NetworkViewController.swift in Sources */,
 				38AA086122EAE93B0061214D /* _SandboxerHelper.m in Sources */,
 				38AA086F22EAE93B0061214D /* CocoaDebugTabBarController.swift in Sources */,
 				38AA086322EAE93B0061214D /* _MLBDirectoryContentsTableViewController.m in Sources */,
 				EAF58059204E7434001CA56D /* AFURLRequestSerialization.m in Sources */,
 				38AA078B22EAE93B0061214D /* CocoaDebugSettings.swift in Sources */,
-				38AA079622EAE93B0061214D /* Device.swift in Sources */,
+				38AA079622EAE93B0061214D /* _Device.swift in Sources */,
 				38AA086C22EAE93B0061214D /* _WKWebView+Swizzling.m in Sources */,
 				38AA088B22EAEBBA0061214D /* _NSLogHook.m in Sources */,
-				38AA085E22EAE93B0061214D /* LogViewController.swift in Sources */,
+				38AA085E22EAE93B0061214D /* _LogViewController.swift in Sources */,
 				38AA085622EAE93B0061214D /* _CacheStoragePolicy.m in Sources */,
-				38AA078E22EAE93B0061214D /* DeviceModel.swift in Sources */,
-				38AA084F22EAE93B0061214D /* NetworkDetailViewController.swift in Sources */,
+				38AA078E22EAE93B0061214D /* _DeviceModel.swift in Sources */,
+				38AA084F22EAE93B0061214D /* _NetworkDetailViewController.swift in Sources */,
 				38AA086522EAE93B0061214D /* _Sandboxer.m in Sources */,
-				38AA084B22EAE93B0061214D /* JsonViewController.swift in Sources */,
+				38AA084B22EAE93B0061214D /* _JsonViewController.swift in Sources */,
 				EAF58057204E7434001CA56D /* AFHTTPSessionManager.m in Sources */,
-				38AA079422EAE93B0061214D /* CrashListViewController.swift in Sources */,
+				38AA079422EAE93B0061214D /* _CrashListViewController.swift in Sources */,
 				38AA086622EAE93B0061214D /* _MLBFilePreviewController.m in Sources */,
 				38AA085122EAE93B0061214D /* _NetworkHelper.m in Sources */,
 				EAF58058204E7434001CA56D /* AFURLSessionManager.m in Sources */,
@@ -1367,26 +1367,26 @@
 				38AA086222EAE93B0061214D /* _MLBFileTableViewCell.m in Sources */,
 				EA165F01204D2539001472C1 /* AppDelegate.m in Sources */,
 				38AA085422EAE93B0061214D /* _QNSURLSessionDemux.m in Sources */,
-				38AA087022EAE93B0061214D /* Color.swift in Sources */,
+				38AA087022EAE93B0061214D /* _Color.swift in Sources */,
 				38AA086D22EAE93B0061214D /* CocoaDebugNavigationController.swift in Sources */,
-				38AA079222EAE93B0061214D /* CrashDetailViewController.swift in Sources */,
+				38AA079222EAE93B0061214D /* _CrashDetailViewController.swift in Sources */,
 				38AA086A22EAE93B0061214D /* _Swizzling.m in Sources */,
-				38AA085F22EAE93B0061214D /* LogHelper.swift in Sources */,
-				38AA079122EAE93B0061214D /* AppInfo.swift in Sources */,
-				38AA085D22EAE93B0061214D /* LogCell.swift in Sources */,
+				38AA085F22EAE93B0061214D /* _LogHelper.swift in Sources */,
+				38AA079122EAE93B0061214D /* _AppInfo.swift in Sources */,
+				38AA085D22EAE93B0061214D /* _LogCell.swift in Sources */,
 				38AA085322EAE93B0061214D /* _HttpDatasource.m in Sources */,
-				38AA084D22EAE93B0061214D /* NetworkCell.swift in Sources */,
-				38AA079022EAE93B0061214D /* CrashModel.swift in Sources */,
-				38AA078F22EAE93B0061214D /* CrashStoreManager.swift in Sources */,
+				38AA084D22EAE93B0061214D /* _NetworkCell.swift in Sources */,
+				38AA079022EAE93B0061214D /* _CrashModel.swift in Sources */,
+				38AA078F22EAE93B0061214D /* _CrashStoreManager.swift in Sources */,
 				38AA086022EAE93B0061214D /* _ObjcLog.m in Sources */,
 				38AA079922EAE93B0061214D /* _fishhook.c in Sources */,
 				38AA087122EAE93B0061214D /* _NSObject+Categories.m in Sources */,
 				38AA086922EAE93B0061214D /* _UIWebView+Swizzling.m in Sources */,
 				38AA085522EAE93B0061214D /* _CustomHTTPProtocol.m in Sources */,
-				38AA085022EAE93B0061214D /* NetworkDetailCell.swift in Sources */,
+				38AA085022EAE93B0061214D /* _NetworkDetailCell.swift in Sources */,
 				38AA086E22EAE93B0061214D /* CocoaDebugViewController.swift in Sources */,
 				38AA078A22EAE93B0061214D /* CocoaDebug.swift in Sources */,
-				38AA079722EAE93B0061214D /* AboutViewController.swift in Sources */,
+				38AA079722EAE93B0061214D /* _AboutViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
